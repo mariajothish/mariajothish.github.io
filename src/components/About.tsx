@@ -1,4 +1,5 @@
 import React from 'react';
+import mariaHeadshot from '../assets/maria-headshot.png';
 
 const About: React.FC = () => {
   return (
@@ -15,7 +16,7 @@ const About: React.FC = () => {
           <div className="flex-shrink-0">
             <div className="relative">
               <img
-                src="/src/assets/mj-professional.jpg"
+                src={mariaHeadshot}
                 alt="Maria Jothish"
                 className="w-80 h-full object-cover rounded-2xl shadow-2xl"
               />
