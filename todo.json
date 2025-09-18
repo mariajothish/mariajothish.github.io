@@ -1,0 +1,1 @@
+[{"id":"IMAGE-001","content":"Move uploaded professional headshot to assets folder","status":"completed","priority":"medium"},{"id":"LAYOUT-001","content":"Update About component to use new headshot image","status":"completed","priority":"high"},{"id":"VERIFY-001","content":"Build project and verify headshot displays correctly","status":"completed","priority":"high"}]
